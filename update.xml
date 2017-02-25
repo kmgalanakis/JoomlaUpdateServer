@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>	
+	<update>
+    <name>Inceptive Multiple Extra Field Groups for K2</name>
+    <description>Inceptive Multiple Extra Field Groups for K2, the easy way to add multiple extra field groups to k2 items</description>
+    <element>incptvk2multipleextrafieldgroups</element>
+    <type>plugin</type>
+    <folder>k2</folder>
+    <version>1.6</version>
+    <infourl title="Comparison table">http://extend.inceptive.gr/joomla-extensions/extension-specific/k2-extensions/inceptive-multiple-extra-fields-groups-for-k2/</infourl>
+    <downloads>
+        <downloadurl type="upgrade" format="zip">http://extend.inceptive.gr/update/plg_k2_incptvk2multipleextrafieldgroups_update11.zip</downloadurl>
+    </downloads>
+    <maintainer>Inceptive Design Labs</maintainer>
+    <maintainerurl>http://www.inceptive.gr/</maintainerurl>
+    <targetplatform name="joomla" version="3.[56789]" />
+    <client>0</client>
+  </update>
+</updates>
